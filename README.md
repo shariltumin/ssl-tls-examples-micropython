@@ -152,7 +152,7 @@ TLS encryption relies on **asymmetric cryptography**, using a key pair:
 | Speed        | Slower                 | Faster (great for MicroPython)   |
 | Best For     | Legacy systems         | Modern IoT and low-power boards  |
 
-✅ **MicroPython Tip:** Prefer **ECC** for devices like ESP32 or ESP8266.
+✅ **MicroPython Tip:** Prefer **ECC** for devices like ESP32.
 
 
 ## 📜 4. Certificates: Your Device's ID
