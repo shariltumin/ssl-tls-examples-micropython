@@ -1,2 +1,2 @@
 
-key = ("dlink-3530", "cabbp73520")
+key = ("your-ssid", "your-pwd")
