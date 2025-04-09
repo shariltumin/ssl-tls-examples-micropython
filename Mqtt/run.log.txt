@@ -1,0 +1,22 @@
+
+$ mpr u0 mount .
+Local directory . is mounted at /remote
+Connected to MicroPython at /dev/ttyUSB0
+Use Ctrl-] or Ctrl-x to exit this shell
+>
+MicroPython v1.25.0-preview.297.gb675c8799.kaki5 on 2025-04-02; ESP32 WEACT-N8 (KAKI5) with ESP32
+>>> import emqxsl
+Client IP: 192.168.5.0
+PREMSG: 0x6 b'10:1b:00:00:00:00'
+MSG: 0x9 b'04:4d:51:54:54:04:c2:00:00'
+RES: b' \x02\x00\x00'
+Connected to MQTT broker: y90166f4.ala.cn-hangzhou.emqxsl.cn, Subscribed to: micropython/test
+Published message
+Received message: Topic=micropython/test, Message=Hello from MicroPython!
+Received message: Topic=micropython/test, Message=This is message number 1, next message in 3 seconds.
+Received message: Topic=micropython/test, Message=This is message number 2, next message in 3 seconds.
+Received message: Topic=micropython/test, Message=This is message number 3, next message in 3 seconds.
+Disconnected from MQTT broker
+Done
+>>> 
+

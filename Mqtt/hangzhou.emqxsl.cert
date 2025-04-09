@@ -1,0 +1,195 @@
+CONNECTED(00000003)
+---
+Certificate chain
+ 0 s:CN = *.ala.cn-hangzhou.emqxsl.cn
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G2
+-----BEGIN CERTIFICATE-----
+MIIGETCCBPmgAwIBAgIQATwVm1OFD2qFjZcQveffUzANBgkqhkiG9w0BAQsFADBu
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMS0wKwYDVQQDEyRFbmNyeXB0aW9uIEV2ZXJ5d2hlcmUg
+RFYgVExTIENBIC0gRzIwHhcNMjQxMjIzMDAwMDAwWhcNMjUxMjIzMjM1OTU5WjAm
+MSQwIgYDVQQDDBsqLmFsYS5jbi1oYW5nemhvdS5lbXF4c2wuY24wggEiMA0GCSqG
+SIb3DQEBAQUAA4IBDwAwggEKAoIBAQClxuFM10bZ7hS3wPSzoWmFqqpwU4zfdNyz
+qNIQIXcaLcis64YhLIMCNUkDv/iRNNLGV99qlMk+zdSo2gUvqxe1A51dWLi4P/wH
+TuD9F94DKygBq8aelzydozVoZlO6cVEGJwNbHGOU6k3qm/5qpDg9BU8IjRMa9lUj
+DAzVm6jdcvnviiMYWyeqh6o2JOpIBIwuWKYhhNb+lAhT+oRK8ZyRSXTCeVax47Uy
+ekK6GV7csK8d9LXDmNth6wjKSpgpqh9fKj38E0zgkwNJrC5gz00c5XuafLsO0EyF
+vhqzpfb/mXKo0CAfRpkfG2hL3wUy8mHbE9636Uxm3Rhy0CR9lXFbAgMBAAGjggLx
+MIIC7TAfBgNVHSMEGDAWgBR435GQX+7erPbFdevVTFVT7yRKtjAdBgNVHQ4EFgQU
+GIfz8D5a3q2p4NUpvIJxu98n590wJgYDVR0RBB8wHYIbKi5hbGEuY24taGFuZ3po
+b3UuZW1xeHNsLmNuMD4GA1UdIAQ3MDUwMwYGZ4EMAQIBMCkwJwYIKwYBBQUHAgEW
+G2h0dHA6Ly93d3cuZGlnaWNlcnQuY29tL0NQUzAOBgNVHQ8BAf8EBAMCBaAwHQYD
+VR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMIGABggrBgEFBQcBAQR0MHIwJAYI
+KwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBKBggrBgEFBQcwAoY+
+aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0VuY3J5cHRpb25FdmVyeXdoZXJl
+RFZUTFNDQS1HMi5jcnQwDAYDVR0TAQH/BAIwADCCAYEGCisGAQQB1nkCBAIEggFx
+BIIBbQFrAHcAEvFONL1TckyEBhnDjz96E/jntWKHiJxtMAWE6+WGJjoAAAGT8iTq
+jwAABAMASDBGAiEA21FsCHQw25UIybmDgJQCrF7rZTS/zEeYWC/Lo1Dh2HcCIQC9
++z6uJVnRasCFKdJxSZ7xRKDjzjiHhhucDK8AS+V3uwB3AO08S9boBsKkogBX28sk
+4jgB31Ev7cSGxXAPIN23Pj/gAAABk/Ik6kYAAAQDAEgwRgIhANYLBpBM8FSaMEZl
+x/Kvh8343OOS/ZHkEo0LIh92wIeeAiEAs6XZNJtIuN4836oIXlexXAwDSxA6n8/7
+Se27M2vNLvIAdwDm0jFjQHeMwRBBBtdxuc7B0kD2loSG+7qHMh39HjeOUAAAAZPy
+JOpcAAAEAwBIMEYCIQDzyDCgOZuzyRmUtNANMbXrKw+WkZC354/3WexKjGAcQwIh
+AIKmcIw1Jn8yH+6ldPWjWqXvUixaQX0GCYc9NlLISxTFMA0GCSqGSIb3DQEBCwUA
+A4IBAQC+wYZcjhmxF2ZntO9JXveCRU5Fbc8A/tarFGeUYK76Q4XDOfGVuo7MxDpp
+8Z7uyv6HXyTMYJeh1tpeplopUtKdf0bCnfw/G8+qL/zj9ySEsef3uRPXc7J3u/sU
+LSje9OOLfG+i9WijAFp0eIS5yauj+2Keh9/IEIGHypOSOC6bg/DTjqFhqsl8qYeV
+AJ1PjMsT4XnUpsCDKncq21m0vWnvWsQcxjo48gOpmRdR4j79/X3KClDwrq4pBsQy
+aA+SdVxu/cXVz1CeMLAhPCXBQ+c4MTLju1uX0sHCj4QgjBN/OmJfT7JLiVzNF/LZ
+GXLX4rYKh4Ce1yfEhs4zf8sKPTrN
+-----END CERTIFICATE-----
+ 1 s:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G2
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G2
+-----BEGIN CERTIFICATE-----
+MIIEqjCCA5KgAwIBAgIQDeD/te5iy2EQn2CMnO1e0zANBgkqhkiG9w0BAQsFADBh
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBH
+MjAeFw0xNzExMjcxMjQ2NDBaFw0yNzExMjcxMjQ2NDBaMG4xCzAJBgNVBAYTAlVT
+MRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5j
+b20xLTArBgNVBAMTJEVuY3J5cHRpb24gRXZlcnl3aGVyZSBEViBUTFMgQ0EgLSBH
+MjCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAO8Uf46i/nr7pkgTDqnE
+eSIfCFqvPnUq3aF1tMJ5hh9MnO6Lmt5UdHfBGwC9Si+XjK12cjZgxObsL6Rg1njv
+NhAMJ4JunN0JGGRJGSevbJsA3sc68nbPQzuKp5Jc8vpryp2mts38pSCXorPR+sch
+QisKA7OSQ1MjcFN0d7tbrceWFNbzgL2csJVQeogOBGSe/KZEIZw6gXLKeFe7mupn
+NYJROi2iC11+HuF79iAttMc32Cv6UOxixY/3ZV+LzpLnklFq98XORgwkIJL1HuvP
+ha8yvb+W6JislZJL+HLFtidoxmI7Qm3ZyIV66W533DsGFimFJkz3y0GeHWuSVMbI
+lfsCAwEAAaOCAU8wggFLMB0GA1UdDgQWBBR435GQX+7erPbFdevVTFVT7yRKtjAf
+BgNVHSMEGDAWgBROIlQgGJXm427mD/r6uRLtBhePOTAOBgNVHQ8BAf8EBAMCAYYw
+HQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMBIGA1UdEwEB/wQIMAYBAf8C
+AQAwNAYIKwYBBQUHAQEEKDAmMCQGCCsGAQUFBzABhhhodHRwOi8vb2NzcC5kaWdp
+Y2VydC5jb20wQgYDVR0fBDswOTA3oDWgM4YxaHR0cDovL2NybDMuZGlnaWNlcnQu
+Y29tL0RpZ2lDZXJ0R2xvYmFsUm9vdEcyLmNybDBMBgNVHSAERTBDMDcGCWCGSAGG
+/WwBAjAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BT
+MAgGBmeBDAECATANBgkqhkiG9w0BAQsFAAOCAQEAoBs1eCLKakLtVRPFRjBIJ9LJ
+L0s8ZWum8U8/1TMVkQMBn+CPb5xnCD0GSA6L/V0ZFrMNqBirrr5B241OesECvxIi
+98bZ90h9+q/X5eMyOD35f8YTaEMpdnQCnawIwiHx06/0BfiTj+b/XQih+mqt3ZXe
+xNCJqKexdiB2IWGSKcgahPacWkk/BAQFisKIFYEqHzV974S3FAz/8LIfD58xnsEN
+GfzyIDkH3JrwYZ8caPTf6ZX9M1GrISN8HnWTtdNCH2xEajRa/h9ZBXjUyFKQrGk2
+n2hcLrfZSbynEC/pSw/ET7H5nWwckjmAJ1l9fcnbqkU/pf6uMQmnfl0JQjJNSg==
+-----END CERTIFICATE-----
+ 2 s:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G2
+   i:C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root CA
+-----BEGIN CERTIFICATE-----
+MIIEfjCCA2agAwIBAgIQD+Ayq4RNAzEGxQyOE8iwaDANBgkqhkiG9w0BAQsFADBh
+MQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3
+d3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBD
+QTAeFw0yNDAxMTgwMDAwMDBaFw0zMTExMDkyMzU5NTlaMGExCzAJBgNVBAYTAlVT
+MRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5j
+b20xIDAeBgNVBAMTF0RpZ2lDZXJ0IEdsb2JhbCBSb290IEcyMIIBIjANBgkqhkiG
+9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuzfNNNx7a8myaJCtSnX/RrohCgiN9RlUyfuI
+2/Ou8jqJkTx65qsGGmvPrC3oXgkkRLpimn7Wo6h+4FR1IAWsULecYxpsMNzaHxmx
+1x7e/dfgy5SDN67sH0NO3Xss0r0upS/kqbitOtSZpLYl6ZtrAGCSYP9PIUkY92eQ
+q2EGnI/yuum06ZIya7XzV+hdG82MHauVBJVJ8zUtluNJbd134/tJS7SsVQepj5Wz
+tCO7TG1F8PapspUwtP1MVYwnSlcUfIKdzXOS0xZKBgyMUNGPHgm+F6HmIcr9g+UQ
+vIOlCsRnKPZzFBQ9RnbDhxSJITRNrw9FDKZJobq7nMWxM4MphQIDAQABo4IBMDCC
+ASwwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUTiJUIBiV5uNu5g/6+rkS7QYX
+jzkwHwYDVR0jBBgwFoAUA95QNVbRTLtm8KPiGxvDl7I90VUwDgYDVR0PAQH/BAQD
+AgGGMHQGCCsGAQUFBwEBBGgwZjAjBggrBgEFBQcwAYYXaHR0cDovL29jc3AuZGln
+aWNlcnQuY24wPwYIKwYBBQUHMAKGM2h0dHA6Ly9jYWNlcnRzLmRpZ2ljZXJ0LmNu
+L0RpZ2lDZXJ0R2xvYmFsUm9vdENBLmNydDBABgNVHR8EOTA3MDWgM6Axhi9odHRw
+Oi8vY3JsLmRpZ2ljZXJ0LmNuL0RpZ2lDZXJ0R2xvYmFsUm9vdENBLmNybDARBgNV
+HSAECjAIMAYGBFUdIAAwDQYJKoZIhvcNAQELBQADggEBAHRBl3jN7+XHBUK0dZnu
+hMdoNwD1nCROU3BTIh1TNzRI0bQ0m5+C/dCRzzlqoSAFHUlOi+OiDltWkXTzmQn6
+Z8bH5PFBy5sYpc/8cNPoSzhyqcpvvEZvv/Ivc0Up+dzma7vBDJC9WrMRUUlSFSQp
+kdXSmphDNkXJsgARmxzc18IN6LYMRiOWlY7RE2F900pPW60BvJHHNCX0bbSRj/Ql
+bmVq8wuftBD++D+RS8K++ujpMjFBROyWfBX+woQDGsMazkmgulQdnZrdj476elOL
+axRvrSgEorju1kJM7M65z2RUZrfzQYW/1rs8mRUXin6iEtad/Rv1ZI1WGYmWPyBm
+pbo=
+-----END CERTIFICATE-----
+---
+Server certificate
+subject=CN = *.ala.cn-hangzhou.emqxsl.cn
+
+issuer=C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G2
+
+---
+No client certificate CA names sent
+Peer signing digest: SHA256
+Peer signature type: RSA-PSS
+Server Temp Key: X25519, 253 bits
+---
+SSL handshake has read 4479 bytes and written 406 bytes
+Verification: OK
+---
+New, TLSv1.3, Cipher is TLS_AES_256_GCM_SHA384
+Server public key is 2048 bit
+Secure Renegotiation IS NOT supported
+Compression: NONE
+Expansion: NONE
+No ALPN negotiated
+Early data was not sent
+Verify return code: 0 (ok)
+---
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_256_GCM_SHA384
+    Session-ID: 1E5A9596BF65FDC7CE5CCBFC075F91D363D2C2C663994226632A1F063600B341
+    Session-ID-ctx: 
+    Resumption PSK: 3F106E68117155B2E30A8126B24BD2C86CAB4922225C9B8048AF66EBD1DE91B254BC481DA772D153DF49F11F7B5C074B
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - fe 8c e3 28 eb ca 3c fa-a7 5a 88 23 21 58 65 0b   ...(..<..Z.#!Xe.
+    0010 - 82 e7 97 98 2b 2d 6d 0e-81 d1 92 99 10 19 e1 12   ....+-m.........
+    0020 - e8 20 24 8a 2d dc 68 7d-c3 42 aa ec 7d 86 18 51   . $.-.h}.B..}..Q
+    0030 - 6e 53 ec 61 85 5f 19 c1-e5 cd c2 bc cf 2a 7e 6e   nS.a._.......*~n
+    0040 - cc 84 3a 95 b5 c2 6b 4a-10 0b 3c 84 8a 17 c0 73   ..:...kJ..<....s
+    0050 - 27 3c 7c 19 9c 96 37 6b-95 e8 11 bb 3c 5f 28 99   '<|...7k....<_(.
+    0060 - 36 d4 90 46 e3 a8 5b 0e-56 26 c8 88 ec 46 c6 5f   6..F..[.V&...F._
+    0070 - 49 05 e0 ae 7c ae f5 03-bc fd 49 d8 93 b8 53 3e   I...|.....I...S>
+    0080 - 87 46 c1 87 5a ad ab fd-9c 6d d7 f1 c5 db 91 12   .F..Z....m......
+    0090 - d1 9d 82 7b b7 70 23 8e-20 12 d9 1c 5d 47 07 53   ...{.p#. ...]G.S
+    00a0 - f4 8a d1 75 4f 1a a8 41-cd ea 71 2d 43 05 42 61   ...uO..A..q-C.Ba
+    00b0 - 34 85 76 0a 25 83 da 15-b4 d1 b9 c3 68 85 d1 55   4.v.%.......h..U
+    00c0 - 53 f2 f7 46 d0 18 c9 4b-bc d0 65 f8 26 ef 3c 51   S..F...K..e.&.<Q
+    00d0 - ad 5a 39 d5 09 f6 44 f6-f8 98 b6 73 23 13 d7 ce   .Z9...D....s#...
+    00e0 - b7 04 f8 d1 28 4a bd de-3a 7f f6 07 15 e1 2a 52   ....(J..:.....*R
+
+    Start Time: 1744196947
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK
+---
+Post-Handshake New Session Ticket arrived:
+SSL-Session:
+    Protocol  : TLSv1.3
+    Cipher    : TLS_AES_256_GCM_SHA384
+    Session-ID: 1171D7ABF7308B6DE437F08A78F5DFB19FA422EEC921AE722DE69AEFABBDDE2E
+    Session-ID-ctx: 
+    Resumption PSK: E449133391CA751E6CD2E39FEDCDC82B6061124AE45B8FB9AA518DDC22B6A37926A18DB83CFED263CF8DF920EF9B4B35
+    PSK identity: None
+    PSK identity hint: None
+    SRP username: None
+    TLS session ticket lifetime hint: 7200 (seconds)
+    TLS session ticket:
+    0000 - fe 8c e3 28 eb ca 3c fa-a7 5a 88 23 21 58 65 0b   ...(..<..Z.#!Xe.
+    0010 - 92 51 a9 52 30 03 a1 4d-15 a5 bf 5d 77 9c 52 f7   .Q.R0..M...]w.R.
+    0020 - 72 c9 0b 10 78 29 56 92-16 7c 44 23 83 85 0d 8e   r...x)V..|D#....
+    0030 - 8e 73 29 ad 87 76 88 ca-45 97 d5 d6 71 07 30 fe   .s)..v..E...q.0.
+    0040 - 43 d7 a5 c0 35 e6 16 5c-b6 c2 d4 f0 83 92 43 26   C...5..\......C&
+    0050 - c5 40 c1 f0 1c 10 5d 4d-85 8d 58 81 e7 2f 8a a1   .@....]M..X../..
+    0060 - 9f f4 f6 fa dd 37 aa df-ac af e9 62 81 61 d6 40   .....7.....b.a.@
+    0070 - c2 8b 12 fb ce 15 90 99-b0 af 71 e0 32 67 32 b8   ..........q.2g2.
+    0080 - 2c 30 60 c9 4a 5d 23 12-33 cb a5 11 93 bb ab 6a   ,0`.J]#.3......j
+    0090 - bd 1b 47 ce fc 1f 8c 61-ee 71 d4 52 2c 84 55 16   ..G....a.q.R,.U.
+    00a0 - d5 33 54 89 e9 44 bb 3d-34 71 04 06 ca b1 a4 1c   .3T..D.=4q......
+    00b0 - 95 57 18 74 c8 ab 12 90-e5 9a c9 2b df a8 8b 66   .W.t.......+...f
+    00c0 - e2 c3 4e 08 de 50 dc 36-78 f0 0b 53 59 d9 5c 5f   ..N..P.6x..SY.\_
+    00d0 - 23 67 29 37 48 60 bd c8-eb 23 3f ca ad bd ca e4   #g)7H`...#?.....
+    00e0 - c0 85 13 00 20 8b 7e 02-00 0b 64 c5 d3 83 78 79   .... .~...d...xy
+
+    Start Time: 1744196947
+    Timeout   : 7200 (sec)
+    Verify return code: 0 (ok)
+    Extended master secret: no
+    Max Early Data: 0
+---
+read R BLOCK
+closed

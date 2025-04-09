@@ -1,0 +1,17 @@
+$ openssl s_client -connect y90166f4.ala.cn-hangzhou.emqxsl.cn:8883 -showcerts >hangzhou.emqxsl.cert
+depth=2 C = US, O = DigiCert Inc, OU = www.digicert.com, CN = DigiCert Global Root G2
+verify return:1
+depth=1 C = US, O = DigiCert Inc, OU = www.digicert.com, CN = Encryption Everywhere DV TLS CA - G2
+verify return:1
+depth=0 CN = *.ala.cn-hangzhou.emqxsl.cn
+verify return:1
+
+$ cp hangzhou.emqxsl.cert immd.emqxsl.cert
+
+$ vi immd.emqxsl.cert
+
+Note: Delete certificates at depth 2 and 1
+
+$ ls
+hangzhou.emqxsl.cert  immd.emqxsl.cert
+
