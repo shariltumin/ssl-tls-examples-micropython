@@ -1,5 +1,6 @@
 import network
 import time
+import ntptime
 # import umqtt.simple as mqtt
 import umqtt.robust as mqtt
 
@@ -18,6 +19,12 @@ while not sta_if.isconnected():
     pass
 
 print("Client IP:", sta_if.ifconfig()[0])
+
+# ntptime.host = 'time.google.com'
+ntptime.host = '216.239.35.12'
+ntptime.timeout = 5
+ntptime.settime()  # Syncs time with an NTP server. 
+                   # Important when working with CERT
 
 # Load Intermediate CA certificate
 with open("immd.emqxsl.cert") as f:
